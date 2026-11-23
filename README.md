@@ -1,5 +1,9 @@
 # The World in One Page — 23 November 2026
 
+[![make.fun](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/mrfriedo1603/makefun-news-23nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/mrfriedo1603/makefun-news-23nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261123)
+
 Entry for make.fun bounty **"Sum up 23 November's world news in one image"**
 (`news-image-20261123`).
 
